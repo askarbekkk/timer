@@ -1,0 +1,64 @@
+.timer{
+    text-align: center;
+    margin-top: 200px;
+}
+.btns{
+    margin-top:20px;
+}
+.timer p{
+    color: white;
+    font-size: 40px;
+}
+body{
+    background-color: black;
+}
+.start-btn{
+    background: green;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+    margin: 0 20px;
+    color: white;
+    font-size: 25px;
+
+}
+.stop-btn{
+    background: red;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+    margin: 0 20px;
+    color: white;
+    font-size: 25px;
+}
+.btn1{
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+    margin: 0 20px;
+    color: white;
+    font-size: 25px;
+
+}
+.reset-btn{
+    background: gray;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+    margin: 0 20px;
+    color: white;
+    font-size: 25px;
+
+}
+button{
+    box-shadow: 0 12px 12px 0 white, 0 12px 50px 0 white;
+
+}
